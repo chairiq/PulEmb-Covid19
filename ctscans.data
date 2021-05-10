@@ -1,5 +1,0 @@
-classes = 1
-train = data/ctscans-train.txt
-valid = data/ctscans-test.txt
-names = data/ctscans.names
-backup = /mydrive/yolov4/backup
