@@ -31,7 +31,7 @@ def load_libs():
   import tensorflow as tf
   global the_model
   the_model = tf.keras.models.load_model('/content/darknet/classification_model/')
-  pred_img('/content/PulEmb-Covid19/app-files//system_prepare.jpg')
+  pred_img('/content/PulEmb-Covid19/app-files/system_prepare.jpg')
   #return the_model
 
 def prepare_img(img):
