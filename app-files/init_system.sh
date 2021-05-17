@@ -17,5 +17,5 @@ mv /content/PulEmb-Covid19/support-files/yolov4-ctscans.cfg cfg/yolov4-ctscans.c
 mv /content/PulEmb-Covid19/support-files/ctscans.names ./data
 mv /content/PulEmb-Covid19/support-files/ctscans.data  ./data
 mv /content/PulEmb-Covid19/support-files/ctscans.data  ./data
-mv /content/PulEmb-Covid19/support-files/yolov4-ctscans_best.weights ./data
-mv /content/PulEmb-Covid19/support-files/classification_model  ./classification_model
+mv /content/PulEmb-Covid19/models/yolov4-ctscans_best.weights ./data
+mv /content/PulEmb-Covid19/models/classification_model  ./classification_model
