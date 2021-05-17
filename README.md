@@ -1,1 +1,1 @@
-# ctscans_pul_emb
+# Pulmonary embolism identification in computerized tomography scans with deep learning technologies in COVID-19 patients![image](https://user-images.githubusercontent.com/35818737/118448931-407e5600-b6fb-11eb-80e6-1036daf17669.png)
